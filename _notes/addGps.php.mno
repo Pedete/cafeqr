@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_addGPS" value="name:idTransaccion;datatype:int,name:idCliente;datatype:int,name:transaccion;datatype:int,name:fechaTransaccion;datatype:timestamp,name:idEmpleado;datatype:int,name:idPaypal;datatype:string,name:idTipoTransaccion;datatype:int,name:lon;datatype:string,name:lat;datatype:string" />
+	<infoitem key="UD_addGps" value="name:idTransaccion;datatype:int,name:idCliente;datatype:int,name:transaccion;datatype:int,name:fechaTransaccion;datatype:timestamp,name:idEmpleado;datatype:int,name:idPaypal;datatype:string,name:idTipoTransaccion;datatype:int,name:lon;datatype:string,name:lat;datatype:string" />
+</info>

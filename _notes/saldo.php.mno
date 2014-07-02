@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cliente" value="name:idCliente;datatype:int,name:nombre;datatype:string,name:apellidos;datatype:string,name:email;datatype:string,name:pass;datatype:string,name:fechaRegistro;datatype:timestamp,name:dispositivo;datatype:string,name:token;datatype:string" />
+	<infoitem key="UD_saldo" value="name:Saldo;datatype:real" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_transaccion" value="name:idTransaccion;datatype:int,name:idCliente;datatype:int,name:transaccion;datatype:int,name:fechaTransaccion;datatype:timestamp,name:idEmpleado;datatype:int,name:idPaypal;datatype:string,name:idTipoTransaccion;datatype:int" />
+	<infoitem key="UD_cliente" value="name:idCliente;datatype:int,name:nombre;datatype:string,name:apellidos;datatype:string,name:email;datatype:string,name:pass;datatype:string,name:fechaRegistro;datatype:timestamp,name:dispositivo;datatype:string,name:token;datatype:string,name:activo;datatype:int" />
+	<infoitem key="UD_clientes" value="name:idCliente;datatype:int,name:nombre;datatype:string,name:apellidos;datatype:string,name:email;datatype:string,name:pass;datatype:string,name:fechaRegistro;datatype:timestamp,name:dispositivo;datatype:string,name:token;datatype:string,name:activo;datatype:int" />
+</info>
